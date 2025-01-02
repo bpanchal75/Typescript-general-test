@@ -4,14 +4,14 @@ const personNew = {
     email: "john@doe.com",
     isStudent: true,
 }
-const personNew2:{firstName:string,lastName:string,email:string,isStudent:boolean} = {
+const personNew2: { firstName: string, lastName: string, email: string, isStudent: boolean } = {
     firstName: "John",
     lastName: "Doe",
     email: "john@doe.com",
     isStudent: true,
 }
 
-console.log (personNew2.email);
+console.log(personNew2.email);
 
 // Object Merge
 const contactInfo = {
