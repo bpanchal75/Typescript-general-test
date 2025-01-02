@@ -33,7 +33,7 @@ const multiply = (a: number, b: number): number => a * b;
 
 console.log(multiply(2, 3));
 
-let y=5, z=5;
-type MatchOperator = (a: number, b: number) => number;
+
+type MatchOperator = (j: number, k: number) => number;
 const add2: MatchOperator = (y,z)  => y+z;
 console.log(add2(7,8));
