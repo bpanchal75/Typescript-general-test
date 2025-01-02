@@ -1,4 +1,5 @@
-var myName = "Bhavesh";
+let myName = `Bhavesh`;
+// @ts-ignore
 let myAge = 25;
 const myGender = "Male";
 
