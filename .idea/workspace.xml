@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d311cd34-f616-42d4-ae84-be123c4f89b9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/conditionalStatement.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataTypes.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/helloworld.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/operators.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/switchStatement.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/variables.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loops.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +41,7 @@
     "Node.js.conditionalStatement.ts.executor": "Run",
     "Node.js.dataTypes.ts.executor": "Run",
     "Node.js.helloworld.ts.executor": "Run",
+    "Node.js.loops.ts.executor": "Run",
     "Node.js.operators.ts.executor": "Run",
     "Node.js.variables.ts.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -60,7 +58,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Node.js.helloworld.ts">
+  <component name="RunManager" selected="Node.js.loops.ts">
     <configuration name="conditionalStatement.ts" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/conditionalStatement.ts" typescript-loader="bundled" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
@@ -70,19 +68,19 @@
     <configuration name="helloworld.ts" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/helloworld.ts" typescript-loader="bundled" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="operators.ts" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/operators.ts" typescript-loader="bundled" working-dir="$PROJECT_DIR$">
+    <configuration name="loops.ts" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/loops.ts" typescript-loader="bundled" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="variables.ts" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/variables.ts" typescript-loader="bundled" working-dir="$PROJECT_DIR$">
+    <configuration name="operators.ts" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/operators.ts" typescript-loader="bundled" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.loops.ts" />
         <item itemvalue="Node.js.helloworld.ts" />
         <item itemvalue="Node.js.dataTypes.ts" />
         <item itemvalue="Node.js.conditionalStatement.ts" />
         <item itemvalue="Node.js.operators.ts" />
-        <item itemvalue="Node.js.variables.ts" />
       </list>
     </recent_temporary>
   </component>
